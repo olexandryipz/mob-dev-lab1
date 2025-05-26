@@ -1,1 +1,1 @@
-![Описание]([https://user-images.githubusercontent.com/...](https://i.ibb.co/rGKg28cj/simulator-screenshot-4-EAF1-AE4-BCBD-42-AE-99-AB-867-D9355-BD64.png))
+![Описание]([[https://user-images.githubusercontent.com/...](https://i.ibb.co/rGKg28cj/simulator-screenshot-4-EAF1-AE4-BCBD-42-AE-99-AB-867-D9355-BD64.png)](https://github.com/olexandryipz/mob-dev-lab1/blob/main/images/simulator_screenshot_4EAF1AE4-BCBD-42AE-99AB-867D9355BD64.png))
